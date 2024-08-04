@@ -35,3 +35,7 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+
+## Acknowledgments
+
+- [opencv](https://opencv.org/) for the powerful computer vision library.
