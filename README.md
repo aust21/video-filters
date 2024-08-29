@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```
-python main.py
+jupyter nbconvert --to notebook --execute main.ipynb
 ```
 
 ## Acknowledgments
