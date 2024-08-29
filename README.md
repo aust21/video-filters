@@ -51,6 +51,12 @@ pip install -r requirements.txt
 ```
 jupyter nbconvert --to notebook --execute main.ipynb
 ```
+### Video filters
+- To apply blur filter: press b
+- To detect edges(Canny): press c
+- To show in black and white: press w
+- To go to normal mode: press n
+- To quit: press q
 
 ## Acknowledgments
 
