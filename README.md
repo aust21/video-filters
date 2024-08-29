@@ -24,6 +24,22 @@ git clone https://github.com/aust21/video-filters.git
 cd video-filters
 ```
 
+### Set up virtual environment
+
+For Windows
+
+```
+python -m venv venv
+venv\Scripts\activate
+```
+
+For Linux / mac
+
+```
+python3 -m venv venv
+source venv/bin/activate
+```
+
 install the required modules
 
 ```
